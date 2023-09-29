@@ -2,4 +2,4 @@ Rearrange
 =========
 
 
-This module is used for rearranginf names.
+This module is used for rearranging names.
